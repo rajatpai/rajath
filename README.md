@@ -20,7 +20,6 @@ My name is Rajath, and I'm a 21-year-old who is constantly interested in learnin
 <a href="https://www.linkedin.com/in/rajath-pai/">
   <img align="left" alt="Nicolas Schlecker Linkdin" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
-</a>
 <a href="https://stackoverflow.com/users/14299457/rajath-pai">
   <img align="left" alt="DevNico Stackoverflow" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/stackoverflow.svg" />
 </a><br/><br/>
