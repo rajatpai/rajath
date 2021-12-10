@@ -6,19 +6,10 @@ My name is Rajath, and I'm a 21-year-old who is constantly interested in learnin
 - 🌱  I’m currently learning about [Flutter](https://www.flutter.dev/)<br>
 - 💬  Ask me about [Flutter](https://www.flutter.dev) / [Dart](https://www.dart.dev), [C++](https://www.cplusplus.com/) , [Python](https://www.python.org/)<br>
 
-<br>
 
-
-
-</br>
 
 ![Rajath's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajathpi&show_icons=true&theme=white)
 
-<br>
-
-
-
-</br>
 
 <a href="https://leetcode.com/rajath_pai/">
   <img align="left" alt="DevNicoS Twitter" width="28px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />
