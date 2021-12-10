@@ -7,7 +7,7 @@ My name is Rajath, and I'm a 21-year-old who is constantly interested in learnin
 - 💬  Ask me about [Flutter](https://www.flutter.dev) / [Dart](https://www.dart.dev), [C++](https://www.cplusplus.com/) , [Python](https://www.python.org/)<br>
 
 # Projects
-### 1. [Space Shooter](https://github.com/rajathpi/space-shooter) 
+### 1. [Space Shooter](https://rajathpi.github.io/space-shooter/) 
 OpenGL project on the Space Shooting game
 <p align="center">
 <img src="https://imgur.com/2e8FSeb.gif" >
@@ -17,7 +17,7 @@ OpenGL project on the Space Shooting game
 <img src="https://imgur.com/Ds5JO6O.png" width = "450">
 </p>
 
-### 2. [Health First](https://github.com/rajathpi/health-first) 
+### 2. [Health First](https://rajathpi.github.io/health-first) 
 🍎"One Stop Shop" for all facts regarding nutrients, vitamins, and minerals present in the fruits, vegetables, and meat at your fingertips.
  <p align="center">
 <img src="https://i.imgur.com/vlJhczS.png" height="400">
@@ -33,10 +33,14 @@ OpenGL project on the Space Shooting game
 </p>
 
 
-### 3. [Flappy Bird](https://github.com/rajathpi/flappy-bird) 
+### 3. [Flappy Bird](https://rajathpi.github.io/flappy-bird) 
 Using NeuroEvolution of Augmenting Topologies(NEAT) to train an agent to play the game Flappy bird. Programming both the environment and the AI using python
  <p align="center">
 <img src="https://user-images.githubusercontent.com/82278285/118827480-0a4afd00-b8da-11eb-949a-46023b36b7c6.gif" >
+</p>
+
+<p href="https://leetcode.com/rajath_pai/">
+  <img src="https://imgur.com/ayf2hDe.png" width="95px"/>
 </p>
 
 ![Rajath's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajathpi&show_icons=true&theme=white)
