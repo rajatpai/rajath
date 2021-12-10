@@ -40,7 +40,7 @@ Using NeuroEvolution of Augmenting Topologies(NEAT) to train an agent to play th
 </p>
 
 <a href="https://leetcode.com/rajath_pai/">
-  <img src="https://imgur.com/sBoXtlf.png" width="105px"/>
+  <img src="https://imgur.com/a9u0sSt.png" width="105px"/>
 </a>
 
 ![Rajath's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajathpi&show_icons=true&theme=white)
