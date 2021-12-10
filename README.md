@@ -68,3 +68,7 @@ My name is Rajath, and I'm a 21-year-old who is constantly interested in learnin
 <a href="https://stackoverflow.com/users/14299457/rajath-pai">
   <img align="left" alt="DevNico Stackoverflow" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/stackoverflow.svg" />
 </a><br/><br/>
+
+
+
+&nbsp;  ![visitors](https://visitor-badge.glitch.me/badge?page_id=rajathpi)
