@@ -12,7 +12,7 @@ My name is Rajath, and I'm a 21-year-old who is constantly interested in learnin
 
 </br>
 
-![Rajath's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajathpi&show_icons=true&theme=radical)
+![Rajath's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajathpi&show_icons=true&theme=white)
 
 <br>
 
