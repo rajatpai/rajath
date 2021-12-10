@@ -8,7 +8,7 @@ My name is Rajath, and I'm a 21-year-old who is constantly interested in learnin
 
 # Projects
 ### 1. [Space Shooter](https://rajathpi.github.io/space-shooter/) 
-OpenGL project on the Space Shooting game
+<p>OpenGL project on the Space Shooting game</p>
 <p align="center">
 <img src="https://imgur.com/2e8FSeb.gif" >
 </p>
@@ -18,7 +18,7 @@ OpenGL project on the Space Shooting game
 </p>
 
 ### 2. [Health First](https://rajathpi.github.io/health-first/) 
-🍎"One Stop Shop" for all facts regarding nutrients, vitamins, and minerals present in the fruits, vegetables, and meat at your fingertips.
+<p>🍎"One Stop Shop" for all facts regarding nutrients, vitamins, and minerals present in the fruits, vegetables, and meat at your fingertips.</p>
  <p align="center">
 <img src="https://i.imgur.com/vlJhczS.png" height="400">
 <img src="https://imgur.com/41T4zcR.png" height="400">
@@ -34,9 +34,19 @@ OpenGL project on the Space Shooting game
 
 
 ### 3. [Flappy Bird](https://rajathpi.github.io/flappy-bird/) 
-Using NeuroEvolution of Augmenting Topologies(NEAT) to train an agent to play the game Flappy bird. Programming both the environment and the AI using python
+<p>Using NeuroEvolution of Augmenting Topologies(NEAT) to train an agent to play the game Flappy bird. Programming both the environment and the AI using python</p>
  <p align="center">
 <img src="https://user-images.githubusercontent.com/82278285/118827480-0a4afd00-b8da-11eb-949a-46023b36b7c6.gif" >
+</p>
+
+
+### 4. [Snake](https://rajathpi.github.io/Snake/) 
+<p>
+<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/snake_1f40d.png" width="50">
+  Simple Snake game using Flutter
+</p>
+ <p align="center">
+<img src="https://imgur.com/6sCGPpq.gif" >
 </p>
 
 <a href="https://leetcode.com/rajath_pai/">
