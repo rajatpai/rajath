@@ -16,7 +16,16 @@ OpenGL project on the Space Shooting game
 ### 2. [Health First](https://github.com/rajathpi/health-first) 
 🍎"One Stop Shop" for all facts regarding nutrients, vitamins, and minerals present in the fruits, vegetables, and meat at your fingertips.
  <p align="center">
-<img src="https://i.imgur.com/vlJhczS.png" >
+<img src="https://i.imgur.com/vlJhczS.png" height="400">
+<img src="https://imgur.com/41T4zcR.png" height="400">
+<img src="https://i.imgur.com/rr5PDBi.png" height="400">
+<img src="https://i.imgur.com/ot8dpx4.png" height="400">
+<img src="https://i.imgur.com/wF8oMjh.png" height="400">
+<img src="https://i.imgur.com/qSpD1i2.png" height="400">
+<img src="https://imgur.com/oM8xubN.png" height="400">
+<img src="https://imgur.com/usaADuX.png" height="400">
+<img src="https://imgur.com/pQeQm8X.png" height="400">
+<img src="https://imgur.com/kU8BC8W.png" height="400">
 </p>
 
 
