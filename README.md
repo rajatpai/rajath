@@ -49,9 +49,11 @@ My name is Rajath, and I'm a 21-year-old who is constantly interested in learnin
 <img src="https://imgur.com/6sCGPpq.gif" >
 </p>
 
-<a href="https://leetcode.com/rajath_pai/">
-  <img src="https://imgur.com/a9u0sSt.png" width="105px"/>
-</a>
+<div style="text-align: center;">
+ <a href="https://drive.google.com/file/d/1D0B88r1up24dp4UL2uT3xonmVnkajiGM/view">
+   <img src="https://imgur.com/a9u0sSt.png" width="105px" />
+ </a>
+</div>
 
 ![Rajath's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajathpi&show_icons=true&theme=white)
 
