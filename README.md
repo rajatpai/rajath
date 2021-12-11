@@ -53,9 +53,11 @@ My name is Rajath, and I'm a 21-year-old who is constantly interested in learnin
 <img src="https://imgur.com/6sCGPpq.gif" >
 </p>
 
+
+<!--Resume-->
 <div style="text-align: center;">
- <a href="https://drive.google.com/file/d/1D0B88r1up24dp4UL2uT3xonmVnkajiGM/view">
-   <img src="https://imgur.com/a9u0sSt.png" width="105px" />
+ <a href="https://drive.google.com/file/d/1H-orEalHdQYwRNUdCvW9t6K8FSmHCVOa/view">
+   <img src="https://imgur.com/a9u0sSt.png" width="150px" />
  </a>
 </div>
 
