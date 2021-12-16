@@ -109,7 +109,7 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 
 <!--break-->
 <br><br><br>
-
+------------------
 
 ### 7. [Automatic report generator](https://rajathpi.github.io/automatic-report-generator/) 
 <p>
@@ -118,7 +118,14 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 </p>
 
 <!--break-->
-<br><br><br><hr style="width:50%;text-align:left;margin-center:0">
+<br><br><br>
+<!DOCTYPE html>
+<html>
+<body>
+<hr style="width:50%;text-align:left;margin-center:0">
+</body>
+</html>
+
 
 <h1 align="center"> 
     <a href="https://rajathpi.github.io/cp-workshop/">Code-Init Workshop</a>  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="70" align="center">
