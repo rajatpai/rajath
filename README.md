@@ -121,11 +121,12 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 <br><br><br>
 
 <h1 align="center"> 
-    <a href="https://youtu.be/JVE3-sxTcaM">Code-Init Workshop</a>  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="70" align="center">
+    <a href="https://rajathpi.github.io/cp-workshop/">Code-Init Workshop</a>  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="70" align="center">
 </h1>
 <p> 
   Conducted a workshop on Competitive programming that totaled over 200 students.<br>
     <a href="https://youtu.be/JVE3-sxTcaM">Click here</a> to watch the video of the workshop<br>
+    <a href="https://rajathpi.github.io/cp-workshop/">Click here</a> for code<br>
 </p>
 
 <!--break-->
