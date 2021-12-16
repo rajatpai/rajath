@@ -140,3 +140,20 @@ My name is Rajath, and I'm a 21-year-old who is constantly interested in learnin
 
 
 &nbsp;  ![visitors](https://visitor-badge.glitch.me/badge?page_id=rajathpi)
+
+
+
+<br>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<style>
+	body {
+		padding: 25px;
+		background-color: black;
+		color: white;
+		font-size: 25px;
+	}
+	</style>
+</head>
+</html>
