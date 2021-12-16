@@ -8,13 +8,13 @@
 <br><br>
 
 <p> 
-My name is Rajath, and I'm a 21-year-old who is constantly interested in learning about new and emerging technologies!<br/>
+My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/facebook/304/person-raising-hand_1f64b.png" width="30px"> , and I'm a 21-year-old who is constantly interested in learning about new and emerging technologies!<br/>
 <img src="https://imgur.com/XQUtdWP.png" align="right" width="150px">
 </p>
 
 
-- 👨‍🎓  Studying Computer Science at the [NMAM Institute of Technology](https://www.nmamit.nitte.edu.in/)<br>
-- <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/55/happy-person-raising-one-hand_1f64b.png" width="30" align="center">  I’m currently learning about [Flutter](https://www.flutter.dev/)<br>
+- <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/fire_1f525.png" width="20" >  Studying Computer Science at the [NMAM Institute of Technology](https://www.nmamit.nitte.edu.in/)<br>
+- <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/55/happy-person-raising-one-hand_1f64b.png" width="20">  I’m currently learning about [Flutter](https://www.flutter.dev/)<br>
 - 💬  Ask me about [Flutter](https://www.flutter.dev) / [Dart](https://www.dart.dev), [C++](https://www.cplusplus.com/) , [Python](https://www.python.org/)<br>
 
 <!--break-->
