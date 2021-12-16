@@ -29,7 +29,7 @@ My name is Rajath, and I'm a 21-year-old who is constantly interested in learnin
 </p>
 
 <!--break-->
-<br><br><br><br>
+<br><br><br>
 
 
 ### 2. [Health First](https://rajathpi.github.io/health-first/) 
@@ -49,7 +49,7 @@ My name is Rajath, and I'm a 21-year-old who is constantly interested in learnin
 
 
 <!--break-->
-<br><br><br><br>
+<br><br><br>
 
 
 ### 3. [Flappy Bird](https://rajathpi.github.io/flappy-bird/) 
@@ -61,7 +61,7 @@ My name is Rajath, and I'm a 21-year-old who is constantly interested in learnin
 
 
 <!--break-->
-<br><br><br><br>
+<br><br><br>
 
 
 ### 4. [Snake](https://rajathpi.github.io/Snake/) 
@@ -75,7 +75,7 @@ My name is Rajath, and I'm a 21-year-old who is constantly interested in learnin
 
 
 <!--break-->
-<br><br><br><br>
+<br><br><br>
 
 
 ### 5. [Bounce](https://rajathpi.github.io/bounce/) 
@@ -89,7 +89,7 @@ My name is Rajath, and I'm a 21-year-old who is constantly interested in learnin
 
 
 <!--break-->
-<br><br><br><br>
+<br><br><br>
 
 
 ### 6. [Cartpole](https://rajathpi.github.io/cartpole/) 
@@ -102,7 +102,7 @@ My name is Rajath, and I'm a 21-year-old who is constantly interested in learnin
 
 
 <!--break-->
-<br><br><br><br>
+<br><br><br>
 
 
 ### 7. [Automatic report generator](https://rajathpi.github.io/automatic-report-generator/) 
@@ -112,7 +112,7 @@ My name is Rajath, and I'm a 21-year-old who is constantly interested in learnin
 </p>
 
 <!--break-->
-<br><br><br><br>
+<br><br><br>
 
 <!--Resume-->
 <div style="text-align: center;">
