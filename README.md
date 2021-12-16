@@ -122,7 +122,7 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 
 <html>
 <body>
-<hr style="width:50%;text-align:center;margin-center:0">
+<hr>
 </body>
 </html>
 
