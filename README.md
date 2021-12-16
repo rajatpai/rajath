@@ -84,7 +84,7 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 
 ### 5. [Bounce](https://rajathpi.github.io/bounce/) 
 <p>
-<img src="https://cdn-icons-png.flaticon.com/512/1041/1041168.png" width="30">
+<img src="https://cdn-icons-png.flaticon.com/512/1041/1041168.png" width="30" align="center">
   Simple OpenCV project which uses the movement of your face and hands to move the plank and score
 </p>
  <p align="center">
