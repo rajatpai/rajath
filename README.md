@@ -24,7 +24,7 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 # Projects
 ### 1. [Space Shooter](https://rajathpi.github.io/space-shooter/) 
 <p>
-<img src="https://cdn-icons.flaticon.com/png/512/3204/premium/3204759.png?token=exp=1639656527~hmac=0776d4b4d10b83ba46cbed7a81f4bf47" width="50" align="center"> OpenGL project on the Space Shooting game
+<img src="https://cdn-icons-png.flaticon.com/512/3306/3306604.png" width="50" align="center"> OpenGL project on the Space Shooting game
 </p>
 <p align="center">
 <img src="https://imgur.com/2e8FSeb.gif" >
@@ -120,7 +120,9 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 <!--break-->
 <br><br><br>
 
-## [Code-Init Workshop](https://rajathpi.github.io/cp-workshop/) <img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="50" align="center">
+<h1 align="center"> 
+    <a href="https://youtu.be/JVE3-sxTcaM">Code-Init Workshop</a>  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="70" align="center">
+</h1>
 <p> 
   Conducted a workshop on Competitive programming that totaled over 200 students.<br>
     <a href="https://youtu.be/JVE3-sxTcaM">Click here</a> to watch the video of the workshop<br>
@@ -136,7 +138,7 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
  </a>
 </div>
 
-![Rajath's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajathpi&show_icons=true&theme=white)
+<!--![Rajath's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajathpi&show_icons=true&theme=white)-->
 
 
 <a href="https://leetcode.com/rajath_pai/">
