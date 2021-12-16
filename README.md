@@ -23,7 +23,9 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 
 # Projects
 ### 1. [Space Shooter](https://rajathpi.github.io/space-shooter/) 
-<p>OpenGL project on the Space Shooting game</p>
+<p>
+<img src="https://cdn-icons.flaticon.com/png/512/3204/premium/3204759.png?token=exp=1639656527~hmac=0776d4b4d10b83ba46cbed7a81f4bf47" width="50" align="center"> OpenGL project on the Space Shooting game
+</p>
 <p align="center">
 <img src="https://imgur.com/2e8FSeb.gif" >
 </p>
@@ -37,7 +39,7 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 
 
 ### 2. [Health First](https://rajathpi.github.io/health-first/) 
-<p>🍎"One Stop Shop" for all facts regarding nutrients, vitamins, and minerals present in the fruits, vegetables, and meat at your fingertips.</p>
+<p><img src="https://cdn-icons-png.flaticon.com/512/46/46504.png" width="35" align="center"> "One Stop Shop" for all facts regarding nutrients, vitamins, and minerals present in the fruits, vegetables, and meat at your fingertips.</p>
  <p align="center">
 <img src="https://i.imgur.com/vlJhczS.png" height="400">
 <img src="https://imgur.com/41T4zcR.png" height="400">
@@ -57,7 +59,7 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 
 
 ### 3. [Flappy Bird](https://rajathpi.github.io/flappy-bird/) 
-<p>Using NeuroEvolution of Augmenting Topologies(NEAT) to train an agent to play the game Flappy bird. Programming both the environment and the AI using python</p>
+<p> <img src="https://raw.githubusercontent.com/rajathpi/flappy-bird/main/imgs/bird1.png" width="35" align="center">  Using NeuroEvolution of Augmenting Topologies(NEAT) to train an agent to play the game Flappy bird. Programming both the environment and the AI using python</p>
  <p align="center">
 <img src="https://user-images.githubusercontent.com/82278285/118827480-0a4afd00-b8da-11eb-949a-46023b36b7c6.gif" >
 </p>
