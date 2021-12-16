@@ -35,11 +35,7 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 </p>
 
 <!--break-->
-<br>
-<!--horizontal line-->
-<html><body><hr></body></html>
-<!--break-->
-<br>
+<br><br><br>
 
 
 ### 2. [Health First](https://rajathpi.github.io/health-first/) 
@@ -59,11 +55,7 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 
 
 <!--break-->
-<br>
-<!--horizontal line-->
-<html><body><hr></body></html>
-<!--break-->
-<br>
+<br><br><br>
 
 
 ### 3. [Flappy Bird](https://rajathpi.github.io/flappy-bird/) 
@@ -75,11 +67,7 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 
 
 <!--break-->
-<br>
-<!--horizontal line-->
-<html><body><hr></body></html>
-<!--break-->
-<br>
+<br><br><br>
 
 
 ### 4. [Snake](https://rajathpi.github.io/Snake/) 
@@ -91,12 +79,9 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 <img src="https://imgur.com/6sCGPpq.gif" >
 </p>
 
+
 <!--break-->
-<br>
-<!--horizontal line-->
-<html><body><hr></body></html>
-<!--break-->
-<br>
+<br><br><br>
 
 
 ### 5. [Bounce](https://rajathpi.github.io/bounce/) 
@@ -108,12 +93,9 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 <img src="https://imgur.com/hI2arKB.png" >
 </p>
 
+
 <!--break-->
-<br>
-<!--horizontal line-->
-<html><body><hr></body></html>
-<!--break-->
-<br>
+<br><br><br>
 
 
 ### 6. [Cartpole](https://rajathpi.github.io/cartpole/) 
@@ -126,11 +108,8 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 
 
 <!--break-->
-<br>
-<!--horizontal line-->
-<html><body><hr></body></html>
-<!--break-->
-<br>
+<br><br><br>
+
 
 ### 7. [Automatic report generator](https://rajathpi.github.io/automatic-report-generator/) 
 <p>
@@ -139,12 +118,7 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 </p>
 
 <!--break-->
-<br>
-<!--horizontal line-->
-<html><body><hr></body></html>
-<!--break-->
-<br>
-
+<br><br><br>
 
 <h1 align="center"> 
     <a href="https://rajathpi.github.io/cp-workshop/">Code-Init Workshop</a>  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="70" align="center">
@@ -156,11 +130,7 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 </p>
 
 <!--break-->
-<br>
-<!--horizontal line-->
-<html><body><hr></body></html>
-<!--break-->
-<br>
+<br><br><br>
 
 <!--Resume-->
 <div style="text-align: center;">
