@@ -1,5 +1,8 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 
+<!--break-->
+</br>
+
 <p> 
 My name is Rajath, and I'm a 21-year-old who is constantly interested in learning about new and emerging technologies!<br/>
 <img src="https://imgur.com/XQUtdWP.png" align="right" width="150px">
@@ -9,6 +12,10 @@ My name is Rajath, and I'm a 21-year-old who is constantly interested in learnin
 - 👨‍🎓  Studying Computer Science at the [NMAM Institute of Technology](https://www.nmamit.nitte.edu.in/)<br>
 - 🌱  I’m currently learning about [Flutter](https://www.flutter.dev/)<br>
 - 💬  Ask me about [Flutter](https://www.flutter.dev) / [Dart](https://www.dart.dev), [C++](https://www.cplusplus.com/) , [Python](https://www.python.org/)<br>
+
+<!--break-->
+</br>
+
 
 # Projects
 ### 1. [Space Shooter](https://rajathpi.github.io/space-shooter/) 
@@ -20,6 +27,10 @@ My name is Rajath, and I'm a 21-year-old who is constantly interested in learnin
 <img src="https://imgur.com/Qez9nvx.png" width = "450">
 <img src="https://imgur.com/Ds5JO6O.png" width = "450">
 </p>
+
+<!--break-->
+</br></br></br></br>
+
 
 ### 2. [Health First](https://rajathpi.github.io/health-first/) 
 <p>🍎"One Stop Shop" for all facts regarding nutrients, vitamins, and minerals present in the fruits, vegetables, and meat at your fingertips.</p>
@@ -37,11 +48,20 @@ My name is Rajath, and I'm a 21-year-old who is constantly interested in learnin
 </p>
 
 
+<!--break-->
+</br></br></br></br>
+
+
 ### 3. [Flappy Bird](https://rajathpi.github.io/flappy-bird/) 
 <p>Using NeuroEvolution of Augmenting Topologies(NEAT) to train an agent to play the game Flappy bird. Programming both the environment and the AI using python</p>
  <p align="center">
 <img src="https://user-images.githubusercontent.com/82278285/118827480-0a4afd00-b8da-11eb-949a-46023b36b7c6.gif" >
 </p>
+
+
+
+<!--break-->
+</br></br></br></br>
 
 
 ### 4. [Snake](https://rajathpi.github.io/Snake/) 
@@ -54,6 +74,10 @@ My name is Rajath, and I'm a 21-year-old who is constantly interested in learnin
 </p>
 
 
+<!--break-->
+</br></br></br></br>
+
+
 ### 5. [Bounce](https://rajathpi.github.io/bounce/) 
 <p>
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/285/soccer-ball_26bd.png" width="30">
@@ -64,6 +88,10 @@ My name is Rajath, and I'm a 21-year-old who is constantly interested in learnin
 </p>
 
 
+<!--break-->
+</br></br></br></br>
+
+
 ### 6. [Cartpole](https://rajathpi.github.io/cartpole/) 
 <p>
   OpenAI's CartPole-v0
@@ -71,6 +99,20 @@ My name is Rajath, and I'm a 21-year-old who is constantly interested in learnin
 <p align="center">
 <img src="https://imgur.com/CeD6VnI.gif" >
 </p>
+
+
+<!--break-->
+</br></br></br></br>
+
+
+### 7. [Automatic report generator](https://rajathpi.github.io/automatic-report-generator/) 
+<p>
+<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-health-worker_1f468-200d-2695-fe0f.png" width="50">
+  Automatic Medical Report Generation from Radiology Chest X-Ray using Deep learning strategy.
+</p>
+
+<!--break-->
+</br></br></br></br>
 
 <!--Resume-->
 <div style="text-align: center;">
