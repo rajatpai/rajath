@@ -119,10 +119,10 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 
 <!--break-->
 <br><br><br>
-<!DOCTYPE html>
+
 <html>
 <body>
-<hr style="width:50%;text-align:left;margin-center:0">
+<hr style="width:50%;text-align:center;margin-center:0">
 </body>
 </html>
 
