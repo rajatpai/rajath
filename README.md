@@ -54,6 +54,24 @@ My name is Rajath, and I'm a 21-year-old who is constantly interested in learnin
 </p>
 
 
+### 5. [Bounce](https://rajathpi.github.io/bounce/) 
+<p>
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/285/soccer-ball_26bd.png" width="30">
+  Simple OpenCV project which uses the movement of your face and hands to move the plank and score
+</p>
+ <p align="center">
+<img src="https://imgur.com/hI2arKB.png" >
+</p>
+
+
+### 6. [Cartpole](https://rajathpi.github.io/cartpole/) 
+<p>
+  OpenAI's CartPole-v0
+</p>
+<p align="center">
+<img src="https://imgur.com/CeD6VnI.gif" >
+</p>
+
 <!--Resume-->
 <div style="text-align: center;">
  <a href="https://drive.google.com/file/d/1H-orEalHdQYwRNUdCvW9t6K8FSmHCVOa/view">
