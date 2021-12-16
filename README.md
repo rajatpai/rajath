@@ -22,11 +22,9 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 
 
 # Projects
-<h1 align="center"> 
-    <a href="https://rajathpi.github.io/space-shooter/">Space Shooter</a>  
-    <img src="https://cdn-icons-png.flaticon.com/512/3306/3306604.png" width="70" align="center">
-</h1>
-<p>OpenGL project on the Space Shooting game
+### 1. [Space Shooter](https://rajathpi.github.io/space-shooter/) 
+<p>
+<img src="https://cdn-icons-png.flaticon.com/512/3306/3306604.png" width="50" align="center"> OpenGL project on the Space Shooting game
 </p>
 <p align="center">
 <img src="https://imgur.com/2e8FSeb.gif" >
@@ -40,11 +38,8 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 <br><br><br>
 
 
-<h1 align="center"> 
-    <a href="https://rajathpi.github.io/health-first/">Health First</a>  
-    <img src="https://cdn-icons-png.flaticon.com/512/46/46504.png" width="70" align="center">
-</h1>
-<p> "One Stop Shop" for all facts regarding nutrients, vitamins, and minerals present in the fruits, vegetables, and meat at your fingertips.</p>
+### 2. [Health First](https://rajathpi.github.io/health-first/) 
+<p><img src="https://cdn-icons-png.flaticon.com/512/46/46504.png" width="35" align="center"> "One Stop Shop" for all facts regarding nutrients, vitamins, and minerals present in the fruits, vegetables, and meat at your fingertips.</p>
  <p align="center">
 <img src="https://i.imgur.com/vlJhczS.png" height="400">
 <img src="https://imgur.com/41T4zcR.png" height="400">
@@ -63,10 +58,8 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 <br><br><br>
 
 
-<h1 align="center"> 
-    <a href="https://rajathpi.github.io/flappy-bird/">Flappy Bird</a>  
-    <img src="https://raw.githubusercontent.com/rajathpi/flappy-bird/main/imgs/bird1.png" width="70" align="center">
-</h1>
+### 3. [Flappy Bird](https://rajathpi.github.io/flappy-bird/) 
+<p> <img src="https://raw.githubusercontent.com/rajathpi/flappy-bird/main/imgs/bird1.png" width="35" align="center">  Using NeuroEvolution of Augmenting Topologies(NEAT) to train an agent to play the game Flappy bird. Programming both the environment and the AI using python</p>
  <p align="center">
 <img src="https://user-images.githubusercontent.com/82278285/118827480-0a4afd00-b8da-11eb-949a-46023b36b7c6.gif" >
 </p>
@@ -77,11 +70,9 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 <br><br><br>
 
 
-<h1 align="center"> 
-    <a href="https://rajathpi.github.io/Snake/">Snake</a>  
-    <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/snake_1f40d.png" width="70" align="center">
-</h1>
+### 4. [Snake](https://rajathpi.github.io/Snake/) 
 <p>
+<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/snake_1f40d.png" width="50">
   Simple Snake game using Flutter
 </p>
  <p align="center">
@@ -93,11 +84,9 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 <br><br><br>
 
 
-<h1 align="center"> 
-    <a href="https://rajathpi.github.io/bounce/">Bounce</a>  
-    <img src="https://cdn-icons-png.flaticon.com/512/1041/1041168.png" width="70" align="center">
-</h1>
+### 5. [Bounce](https://rajathpi.github.io/bounce/) 
 <p>
+<img src="https://cdn-icons-png.flaticon.com/512/1041/1041168.png" width="30" align="center">
   Simple OpenCV project which uses the movement of your face and hands to move the plank and score
 </p>
  <p align="center">
@@ -109,9 +98,7 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 <br><br><br>
 
 
-<h1 align="center"> 
-    <a href="https://rajathpi.github.io/cartpole/">Cartpole</a>  
-</h1>
+### 6. [Cartpole](https://rajathpi.github.io/cartpole/) 
 <p>
   OpenAI's CartPole-v0
 </p>
@@ -124,16 +111,14 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 <br><br><br>
 
 
-<h1 align="center"> 
-    <a href="https://rajathpi.github.io/cp-workshop/">Automatic report generator</a>  
-    <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-health-worker_1f468-200d-2695-fe0f.png" width="70" align="center">
-</h1>
+### 7. [Automatic report generator](https://rajathpi.github.io/automatic-report-generator/) 
 <p>
+<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-health-worker_1f468-200d-2695-fe0f.png" width="50">
   Automatic Medical Report Generation from Radiology Chest X-Ray using Deep learning strategy.
 </p>
 
 <!--break-->
-<br><br><br>
+<br><br><br><hr style="width:50%;text-align:left;margin-center:0">
 
 <h1 align="center"> 
     <a href="https://rajathpi.github.io/cp-workshop/">Code-Init Workshop</a>  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="70" align="center">
