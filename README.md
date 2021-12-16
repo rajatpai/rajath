@@ -84,7 +84,7 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 
 ### 5. [Bounce](https://rajathpi.github.io/bounce/) 
 <p>
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/285/soccer-ball_26bd.png" width="30">
+<img src="https://cdn-icons-png.flaticon.com/512/1041/1041168.png" width="30">
   Simple OpenCV project which uses the movement of your face and hands to move the plank and score
 </p>
  <p align="center">
@@ -113,6 +113,15 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 <p>
 <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-health-worker_1f468-200d-2695-fe0f.png" width="50">
   Automatic Medical Report Generation from Radiology Chest X-Ray using Deep learning strategy.
+</p>
+
+<!--break-->
+<br><br><br>
+
+## [Code-Init Workshop](https://rajathpi.github.io/cp-workshop/) <img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="50" align="center">
+<p> 
+  Conducted a workshop on Competitive programming that totaled over 200 students.<br>
+    <a href="https://youtu.be/JVE3-sxTcaM">Click here</a> to watch the video of the workshop<br>
 </p>
 
 <!--break-->
