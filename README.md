@@ -8,7 +8,7 @@
 <br><br>
 
 <p> 
-My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/facebook/304/person-raising-hand_1f64b.png" width="30px"> , and I'm a 21-year-old who is constantly interested in learning about new and emerging technologies!<br/>
+My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/facebook/304/person-raising-hand_1f64b.png" width="30px"> , and I'm a 21-year-old who is constantly interested in learning about new and emerging technologies!<br><br>
 <img src="https://imgur.com/XQUtdWP.png" align="right" width="150px">
 </p>
 
