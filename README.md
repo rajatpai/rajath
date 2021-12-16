@@ -2,10 +2,10 @@
     Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
     
 </h1>
-<h3 align="center"> </h3>
+
 
 <!--break-->
-<br>
+<br><br>
 
 <p> 
 My name is Rajath, and I'm a 21-year-old who is constantly interested in learning about new and emerging technologies!<br/>
