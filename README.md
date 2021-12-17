@@ -134,7 +134,7 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 
 <!--Resume-->
 <div style="text-align: center;">
- <a href="https://drive.google.com/file/d/1H-orEalHdQYwRNUdCvW9t6K8FSmHCVOa/view">
+ <a href="https://drive.google.com/file/d/1Ucjzrl4OunWc64KL0EWHk8WNdwQedGK4/view">
    <img src="https://imgur.com/a9u0sSt.png" width="150px" />
  </a>
 </div>
