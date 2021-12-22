@@ -110,8 +110,20 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 <!--break-->
 <br><br><br>
 
+### 7. [AmongUs](https://rajathpi.github.io/AmongUs/) 
+<p>
+  Using NeuroEvolution of Augmenting Topologies(NEAT) to train an agent to play the game. Programming both the environment and the AI using python
+</p>
+<p align="center">
+<img src="https://imgur.com/gSBXWUb.gif" >
+</p>
 
-### 7. [Automatic report generator](https://rajathpi.github.io/automatic-report-generator/) 
+
+<!--break-->
+<br><br><br>
+
+
+### 8. [Automatic report generator](https://rajathpi.github.io/automatic-report-generator/) 
 <p>
 <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-health-worker_1f468-200d-2695-fe0f.png" width="50">
   Automatic Medical Report Generation from Radiology Chest X-Ray using Deep learning strategy.
