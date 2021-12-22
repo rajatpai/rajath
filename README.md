@@ -112,6 +112,7 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 
 ### 7. [AmongUs](https://rajathpi.github.io/AmongUs/) 
 <p>
+    <img src="https://www.icegif.com/wp-content/uploads/among-us-icegif-43.gif" width="45" align="center">
   Using NeuroEvolution of Augmenting Topologies(NEAT) to train an agent to play the game. Programming both the environment and the AI using python
 </p>
 <p align="center">
