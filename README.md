@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    body {
-      background-color: #C2CAD0;
-    }
-    </style>
-</head>
 <h1 align="center">
     Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
     
@@ -176,7 +167,5 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 <a href="https://stackoverflow.com/users/14299457/rajath-pai">
   <img align="left" alt="DevNico Stackoverflow" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/stackoverflow.svg" />
 </a><br/><br/>
-
-
 
 &nbsp;  ![visitors](https://visitor-badge.glitch.me/badge?page_id=rajathpi)
