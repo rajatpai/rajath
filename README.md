@@ -1,8 +1,11 @@
-<h1 align="center">
+<p align="center">
+  <img width="200" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/person-raising-hand_light-skin-tone_1f64b-1f3fb_1f3fb.png" alt="Material Bread logo"><h1 align="center">Hello, folks!</h1>
+</p>
+<!-- <h1 align="center">
     Hello, folks! <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/person-raising-hand_light-skin-tone_1f64b-1f3fb_1f3fb.png" width="100" align="center">
-<!--     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/> -->
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
     
-</h1>
+</h1> -->
 
 
 <!--break-->
@@ -136,10 +139,13 @@ My name is Rajath <img src="https://emojipedia-us.s3.amazonaws.com/source/micros
 
 <!--break-->
 <br><br><br>
-
-<h1 align="center"> 
-    <a href="https://rajathpi.github.io/cp-workshop/">Code-Init Workshop</a>  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="70" align="center">
-</h1>
+<a href="https://github.com/rajathpi/cp-workshop">
+<p align="center">
+ 
+  <img width="200" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/technologist-light-skin-tone_1f9d1-1f3fb-200d-1f4bb.png" alt="Material Bread logo">
+ <h1 align="center">CP Workshop</h1>
+</p>
+</a>
 <p> 
   Conducted a workshop on Competitive programming that totaled over 200 students.<br>
     <a href="https://youtu.be/JVE3-sxTcaM">Click here</a> to watch the video of the workshop<br>
