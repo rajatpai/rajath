@@ -75,7 +75,7 @@ My name is Rajath <img src="https://emojipedia-us.s3.amazonaws.com/source/micros
 <br><br><br>
 
 
-### 4. [Snake](https://rajathpi.github.io/Snake/) 
+### 4. [Snake](https://rajathpi.github.io/Snake/) <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/snake_1f40d.png" width="70" align="center">
 <p>
 <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/snake_1f40d.png" width="50">
   Simple Snake game using Flutter
