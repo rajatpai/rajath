@@ -1,5 +1,6 @@
 <h1 align="center">
-    Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
+    Hello, folks! <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/person-raising-hand_light-skin-tone_1f64b-1f3fb_1f3fb.png" width="100" align="center">
+<!--     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/> -->
     
 </h1>
 
@@ -8,23 +9,24 @@
 <br><br>
 
 <p> 
-My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/facebook/304/person-raising-hand_1f64b.png" width="30px"> , and I'm a 21-year-old who is constantly interested in learning about new and emerging technologies!<br><br>
+My name is Rajath <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/person_light-skin-tone_1f9d1-1f3fb_1f3fb.png" width="50px" align="justify"> , and I'm a 22-year-old who is constantly interested in learning about new and emerging technologies!<br><br>
 <img src="https://imgur.com/XQUtdWP.png" align="right" width="150px">
 </p>
 
 
-- <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/fire_1f525.png" width="20" >  Studying Computer Science at the [NMAM Institute of Technology](https://www.nmamit.nitte.edu.in/)<br>
-- <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/55/happy-person-raising-one-hand_1f64b.png" width="20">  I’m currently learning about [Flutter](https://www.flutter.dev/)<br>
-- 💬  Ask me about [Flutter](https://www.flutter.dev) / [Dart](https://www.dart.dev), [C++](https://www.cplusplus.com/) , [Python](https://www.python.org/)<br>
+- <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/fire_1f525.png" width="35" >  Pursuing a master's degree in Data Science & Artifical Intelligence at the [Chalmers University of Technology](https://www.chalmers.se/en/Pages/default.aspx)<br>
+- <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/student-light-skin-tone_1f9d1-1f3fb-200d-1f393.png" width="35" >  Completed Undergraduate studies in Computer Science at the [NMAM Institute of Technology](https://www.nmamit.nitte.edu.in/)<br>
+- <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/star_2b50.png" width="35">  I’m currently learning about [Flutter](https://www.flutter.dev/)<br>
+- <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/crystal-ball_1f52e.png" width="35">  Ask me about [Flutter](https://www.flutter.dev) / [Dart](https://www.dart.dev), [C++](https://www.cplusplus.com/) , [Python](https://www.python.org/)<br>
 
 <!--break-->
 <br>
 
 
 # Projects
-### 1. [Space Shooter](https://rajathpi.github.io/space-shooter/) 
+### 1. [Space Shooter](https://rajathpi.github.io/space-shooter/) <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/flying-saucer_1f6f8.png" width="70" align="center">
 <p>
-<img src="https://cdn-icons-png.flaticon.com/512/3306/3306604.png" width="50" align="center"> OpenGL project on the Space Shooting game
+<img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/alien_1f47d.png" width="50" align="center"> OpenGL project on the Space Shooting game
 </p>
 <p align="center">
 <img src="https://imgur.com/2e8FSeb.gif" >
@@ -38,7 +40,7 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 <br><br><br>
 
 
-### 2. [Health First](https://rajathpi.github.io/health-first/) 
+### 2. [Health First](https://rajathpi.github.io/health-first/) <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/flying-saucer_1f6f8.png" width="70" align="center">
 <p><img src="https://cdn-icons-png.flaticon.com/512/46/46504.png" width="35" align="center"> "One Stop Shop" for all facts regarding nutrients, vitamins, and minerals present in the fruits, vegetables, and meat at your fingertips.</p>
  <p align="center">
 <img src="https://i.imgur.com/vlJhczS.png" height="400">
@@ -58,7 +60,7 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 <br><br><br>
 
 
-### 3. [Flappy Bird](https://rajathpi.github.io/flappy-bird/) 
+### 3. [Flappy Bird](https://rajathpi.github.io/flappy-bird/) <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/bird_1f426.png" width="70" align="center">
 <p> <img src="https://raw.githubusercontent.com/rajathpi/flappy-bird/main/imgs/bird1.png" width="35" align="center">  Using NeuroEvolution of Augmenting Topologies(NEAT) to train an agent to play the game Flappy bird. Programming both the environment and the AI using python</p>
  <p align="center">
 <img src="https://user-images.githubusercontent.com/82278285/118827480-0a4afd00-b8da-11eb-949a-46023b36b7c6.gif" >
@@ -124,7 +126,9 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 <br><br><br>
 
 
-### 8. [Automatic report generator](https://rajathpi.github.io/automatic-report-generator/) 
+### 8. [Automatic report generator](https://rajathpi.github.io/automatic-report-generator/) <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/health-worker-light-skin-tone_1f9d1-1f3fb-200d-2695-fe0f.png" width="70" align="center">
+<!-- 
+<img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/anatomical-heart_1fac0.png" width="45" align="center"><img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/lungs_1fac1.png" width="45" align="center"> -->
 <p>
 <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-health-worker_1f468-200d-2695-fe0f.png" width="50">
   Automatic Medical Report Generation from Radiology Chest X-Ray using Deep learning strategy.
@@ -147,7 +151,7 @@ My name is Rajath <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazona
 
 <!--Resume-->
 <div style="text-align: center;">
- <a href="https://drive.google.com/file/d/1Ucjzrl4OunWc64KL0EWHk8WNdwQedGK4/view">
+<!--  <a href="https://drive.google.com/file/d/1Ucjzrl4OunWc64KL0EWHk8WNdwQedGK4/view"> -->
    <img src="https://imgur.com/a9u0sSt.png" width="150px" />
  </a>
 </div>
